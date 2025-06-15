@@ -1,18 +1,23 @@
 # BR-HACK
 
-A small patch for replacing the IP address used by **BLACK RUSSIA**.
+a small patch for replacing the IP address used by **BLACK RUSSIA**.
 
-## 🔧 How to use
+## 🔧 how to use
 
-1. Open `game/hooks.cpp`.
-2. Go to line **25**.
-3. Replace the IP & PORT with your desired one.
+1. open `game/hooks.cpp`  
+2. go to line **25**  
+3. replace the IP & PORT with your own  
 
-## ✅ Fixes
+## 🛠 build info
 
-- Fixed sync issues.
-- Fixed compilation errors.
+- compile with **NDK r21e**  
+- target: `armeabi-v7a`
+
+## ✅ fixes
+
+- sync issues fixed  
+- compile errors fixed  
 
 ---
 
-> made for educational & testing purposes. use responsibly.
+> made for educational & testing purposes only. use responsibly.
